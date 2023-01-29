@@ -1,2 +1,3 @@
 # wifi_toggle
-This script toggle your WiFi adaptors On/Off on GNU/Linux
+This script toggles your WiFi adaptors On/Off.
+It works under Ubuntu and probably on most GNU/Linux distros.
