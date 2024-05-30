@@ -29,7 +29,7 @@ if [ ${STATE} = "on" ]; then
   echo 'Wifi off'
   notify-send 'Wifi off'
   ## uncomment for optional sound cue
-  #play -q ~/Púublic/wifioff.ogg -t alsa & #
+  #play -q ~/Public/wifioff.ogg -t alsa & #
 #  disown #
 else
   nmcli radio wifi on
